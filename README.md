@@ -10,7 +10,7 @@ Welcome to Snippetize, an AI-powered article summarizer that helps you quickly g
 - Copy to clipboard
 - Save and Export Summaries in Summaries.txt
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
